@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="movies_recomendations/movies_recomendations.vcxproj" Id="99f49415-192e-48ea-b04d-328b5a746fab" />
+</Solution>
